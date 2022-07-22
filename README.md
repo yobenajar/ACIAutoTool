@@ -12,6 +12,19 @@ Technologies used: 'Ansible', 'Python', ''
 <span style="color: red;">text</span>
 :open_file_folder:
 ##### Ansible File Structure
+aci-fabric
+└───playbook and data
+│   | inventory
+|   | aci_playbook.yml
+|   | aci_data.yml
+|
+└───roles :open_file_folder:
+│   └─── aci_tenant_construct_layer2
+│        └─── tasks
+│             | aci_epg.yml
+|             | aci_bd.yml
+|             | aci_vrf.yml
+│             | ...
 ```
 aci-fabric
 └───playbook and data
