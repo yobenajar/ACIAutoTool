@@ -9,11 +9,11 @@ Technologies used: 'Ansible', 'Python', ''
 
 ## Setup
 ###  Ansible
-
+<span style="color: red;">text</span>
 
 ##### Ansible File Structure
 ```
-<span style="color:red">some **aci-fabric** text</span>
+aci-fabric
 └───playbook and data
 │    | inventory
 |    | aci_playbook.yml
