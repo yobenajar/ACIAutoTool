@@ -10,7 +10,7 @@ Technologies used: 'Ansible', 'Python', ''
 ## Setup
 ###  Ansible
 <span style="color: red;">text</span>
-:open_folder:
+:open_file_folder:
 ##### Ansible File Structure
 ```
 aci-fabric
@@ -19,7 +19,7 @@ aci-fabric
 |   | aci_playbook.yml
 |   | aci_data.yml
 |
-└───roles :open_folder:
+└───roles :open_file_folder:
 │   └─── aci_tenant_construct_layer2
 │        └─── tasks
 │             | aci_epg.yml
