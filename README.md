@@ -5,7 +5,7 @@ Tool for automating configuration tasks in ACI. Eliminates manual use of APIC fo
 You can configure multiple Interfaces, EPGs, Static Paths Bindings and a host of other things by simply adding data to a table.
 NB!! The setup of this tool is quite heavy, but easy to use once set up.
 
-Technologies used: 'Ansible', 'Python', ''
+Technologies used: 'Ansible', 'Python', 'Django'
 
 ## Setup
 ###  Ansible
